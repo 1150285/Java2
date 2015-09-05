@@ -1,8 +1,8 @@
 # mei-rep-2015
 
-The goal of this repository is to serve as a template for the projects developed during the courses of the MEI Master Program, Edition 2015.
+The goal of this repository is to serve as a template for the projects developed during the courses of the MEI Master Program, edition 2015.
 
-** Please follow the instructions of the teachers of you course because they will always prevail above what is stated in this readme file. **
+** Please follow the instructions of the teachers of your course because they will always prevail ovec what is stated in this readme file. **
   
 ## Structure of Folders  
 
@@ -37,9 +37,9 @@ Each team will usually have a clone of this repository in bitbucket.
 
 It is a good practice to create an **Issue** in bitbucket for each exercise or task that your team will be developing.
 
-Sinde this repository may be shared accross courses we strongly purpose that the description of the issue **always** starts with the short name of the course. For example, for the first exercise of EDOM you should create an issue named "EDOM - Exercise 1".
+Since this repository may be shared accross courses we strongly purpose that the description of the issue **always** starts with the short name of the course. For example, for the first exercise of EDOM you should create an issue named "EDOM - Exercise 1".
 
-Each commit in you repository should always make a reference to the corresponding issue. For instance, in the previous example, if the issue created has an id 22, then in the commit message you should make a ref to that issue. Example: "EDOM - Added class diagram for exercise 1, ref #22". You should also state the short name of the course.
+Each commit in your repository should always make a reference to the corresponding issue. For instance, in the previous example, if the issue created has an id 22, then in the commit message you should make a ref to that issue. Example: "EDOM - Added class diagram for exercise 1, ref #22". You should also state the short name of the course.
 
 You should also close the issue when the exercise or task is finished.
 
