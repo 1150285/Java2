@@ -1,0 +1,12 @@
+/logs
+/data/derby
+/data/utilcache.db
+/data/utilcache.lg
+!/data/README
+!/data/derby.properties
+/tempfiles
+/catalina
+/indexes
+/tmp
+/tempfiles
+/output
