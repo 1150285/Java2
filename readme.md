@@ -45,6 +45,18 @@ You should also close the issue when the exercise or task is finished.
 
 For each deadline/submission of your task/exercise/project you should also create a tag in the repository.
 
+## How to Open the Projects in Eclipse
+
+In order to open the projects in Eclipse (after you have a clone of the repository in your local computer) you should:
+
+* Run Eclipse
+* Create a new workspace. This new workspace should be create in a new folder **not related to the folder where the clone of the repository is located**
+* Import the projects of the repository into the workspace. You should use "File"/"Import..." and then "Existing Projects into Workspace". Then select the folder of the project that you want to import. Repeat this step fro each project you want to import.
+
+The projects "ofbiz-mei" and "ofbiz-rest-client-demo" can be imported into the eclipse workspace as described.
+
+**Note:** As stated before, you should create your artifacts inside folders of the repository (according to the guidelines). When you task involves the creation of eclipse projects (they are also artifacts) you should created them in the folders of the repository as described. By doing so, you team colleges and teachers can easily open your projects in eclipse.  
+
 
 
 
