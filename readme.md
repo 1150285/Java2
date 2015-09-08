@@ -2,7 +2,7 @@
 
 The goal of this repository is to serve as a template for the projects developed during the courses of the MEI Master Program, edition 2015.
 
-** Please follow the instructions of the teachers of your course because they will always prevail ovec what is stated in this readme file. **
+** Please follow the instructions of the teachers of your course because they will always prevail over what is stated in this readme file. **
   
 ## Structure of Folders  
 
@@ -51,13 +51,8 @@ In order to open the projects in Eclipse (after you have a clone of the reposito
 
 * Run Eclipse
 * Create a new workspace. This new workspace should be create in a new folder **not related to the folder where the clone of the repository is located**
-* Import the projects of the repository into the workspace. You should use "File"/"Import..." and then "Existing Projects into Workspace". Then select the folder of the project that you want to import. Repeat this step fro each project you want to import.
+* Import the projects of the repository into the workspace. You should use "File"/"Import..." and then "Existing Projects into Workspace". Then select the folder of the project that you want to import. Repeat this step for each project you want to import.
 
 The projects "ofbiz-mei" and "ofbiz-rest-client-demo" can be imported into the eclipse workspace as described.
 
-**Note:** As stated before, you should create your artifacts inside folders of the repository (according to the guidelines). When you task involves the creation of eclipse projects (they are also artifacts) you should created them in the folders of the repository as described. By doing so, you team colleges and teachers can easily open your projects in eclipse.  
-
-
-
-
-
+**Note:** As stated before, you should create your artifacts inside folders of the repository (according to the guidelines). When your task involves the creation of eclipse projects (they are also artifacts) you should create them in the folders of the repository as described. By doing so, your team colleges and teachers can easily open your projects in eclipse.
