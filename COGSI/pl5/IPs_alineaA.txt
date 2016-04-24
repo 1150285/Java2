@@ -1,0 +1,65 @@
+Para melhor desenho da rede foi considerado, R1, R2, R3 e R4, como sendo RouterA, RouterB, RouterC e RouterD respectivamente..
+cada interface, é designada como A1, A2, etc..
+
+
+-----------------------------
+
+Router 1(A)
+RouterA1
+address 192.168.0.1 
+
+Sw1
+address 192.168.0.2
+
+SrvA
+address 192.168.0.3
+SrvB
+address 192.168.0.4
+
+RouterA2
+address 192.168.0.5
+
+
+------------------------------
+
+Router 2(B)
+RouterB1
+address 192.168.0.17
+RouterB2
+address 192.168.0.18
+
+Sw2
+address 192.168.0.19
+
+Ws2
+address 192.168.0.20
+
+
+------------------------------
+
+Router 3(C)
+RouterC1
+address 192.168.0.33
+RouterC2
+address 192.168.0.34
+
+
+------------------------------
+
+Router 4(D)
+RouterD1
+address 192.168.0.49
+RouterD2
+address 192.168.0.50
+
+
+------------------------------
+RouterD3
+address 192.168.0.51
+
+Sw3
+address 192.168.0.52
+
+Ws1
+address 192.168.0.53
+

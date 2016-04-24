@@ -1,0 +1,14 @@
+#Adicionar no ficheiro nagios.cfg
+
+cfg_file=/usr/local/nagios/etc/objects/hosts.cfg
+cfg_file=/usr/local/nagios/etc/objects/Services.cfg
+cfg_file=/usr/local/nagios/etc/objects/Commands.cfg
+cfg_file=/usr/local/nagios/etc/objects/Contacts.cfg
+cfg_file=/usr/local/nagios/etc/objects/Periodos.cfg
+
+# Adicionar ao ficheiro resource.cfg
+
+$USER2$=cogsi2016@live.com 
+$USER3$=cogsi2016@live@live.com
+$USER4$=2016cogsi
+$USER5$=smtp.live.com:587
